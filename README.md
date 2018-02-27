@@ -13,3 +13,4 @@ Program :- powerFunction.py
 ## Section 2: Linux - Solve this basic problem 
 
 ## Section 3: Basic CS 
+![image](https://user-images.githubusercontent.com/15088180/36712525-3826c57c-1baf-11e8-8bb4-734d5b51dec1.png)
